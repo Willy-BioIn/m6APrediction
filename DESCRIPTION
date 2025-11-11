@@ -3,10 +3,12 @@ Title: Predict m6A Modification Sites in RNA Sequences Using Machine Learning
 Version: 1.0.0
 Authors@R: 
     person("Yilin", "Wu", , "Yilin.Wu23@student.xjtlu.edu.cn", role = c("aut", "cre"))
-Description:Predicts m6A modification sites in RNA sequences using pre-trained machine learning models and integrated feature data (e.g., GC content, RNA type, DNA 5mer).
+Description: Predicts m6A modification sites in RNA sequences using pre-trained machine learning models and integrated feature data (e.g., GC content, RNA type, DNA 5mer).
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Imports: randomForest 
 Depends: R (>= 3.5.0)
+URL: https://github.com/Willy-BioIn/m6APrediction
+BugReports: https://github.com/Willy-BioIn/m6APrediction/issues
