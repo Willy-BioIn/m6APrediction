@@ -18,12 +18,12 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
   install.packages("devtools")
 }
 
-# Install m6ASitePred from GitHub
-devtools::install_github('Willy-BioIn/m6ASitePred')
+# Install m6APrediction from GitHub
+devtools::install_github('Willy-BioIn/m6APrediction')
 
 #or use remote
-install.packages("remotes")
-remotes::install_github('Willy-BioIn/m6ASitePred')
+
+remotes::install_github('Willy-BioIn/m6APrediction')
 ```
 
 
@@ -70,5 +70,6 @@ knitr::include_graphics("inst/extdata/ROC.png")
 
 ### PRC Curve
 knitr::include_graphics("inst/extdata/PRC.png")
+
 ```
 
