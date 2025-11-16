@@ -63,13 +63,13 @@ print(result_single)
 The model shows strong predictive power, as demonstrated by the ROC (Receiver Operating Characteristic) and PRC (Precision-Recall Curve) below:
 
 
-```{r echo=FALSE, out.width="80%"}
-### ROC Curve
-knitr::include_graphics("inst/extdata/ROC.png")
+
+# ROC Curve
+![PRC Curve](inst/extdata/PRC.png){width=80%}
 
 
-### PRC Curve
-knitr::include_graphics("inst/extdata/PRC.png")
+# PRC Curve
+![PRC Curve](inst/extdata/PRC.png){width=80%}
 
-```
+
 
