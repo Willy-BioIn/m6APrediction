@@ -65,11 +65,11 @@ The model shows strong predictive power, as demonstrated by the ROC (Receiver Op
 
 
 # ROC Curve
-# ![PRC Curve](inst/extdata/ROC.png){width=80%}
+# ![ROC Curve](inst/extdata/ROC.png)
 
-
+# 
 # PRC Curve
-![PRC Curve](inst/extdata/PRC.png){width=80%}
+# ![PRC Curve](inst/extdata/PRC.png)
 
 
 
